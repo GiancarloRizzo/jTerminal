@@ -1,0 +1,11 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>giancarlorizzo</groupId>
+  <artifactId>jterminal</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>jTerminal</name>
+  <description>JAVA-based terminal-GUI with commandline-interface-framework for custom java-applications</description>
+  <!-- https://mvnrepository.com/artifact/com.diogonunes/JColor -->
+	<dependencies>	  
+	</dependencies>
+</project>
